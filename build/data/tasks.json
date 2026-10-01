@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "Task 1",
+        "state": "incomplete",
+        "deadline": "2024-06-30",
+        "start": "2024-06-01"
+    },
+    {
+        "id": 2,
+        "title": "Task 2",
+        "state": "done",
+        "deadline": "2024-07-15",
+        "start": "2024-06-15"
+    },
+    {
+        "id": 3,
+        "title": "Task 3",
+        "state": "not started",
+        "deadline": "2024-08-01",
+        "start": "2024-07-01"
+    },
+    {
+        "id": 4,
+        "title": "Search job",
+        "state": "Not Started",
+        "deadline": "2026-12-30",
+        "start": ""
+    },
+    {
+        "id": 5,
+        "title": "Create task for workspace work",
+        "state": "in_progress",
+        "deadline": "",
+        "start": "2026-09-30"
+    },
+    {
+        "id": 6,
+        "title": "complete tutorial",
+        "state": "in_progress",
+        "deadline": "",
+        "start": "2026-09-30"
+    },
+    {
+        "id": 7,
+        "title": "Making SMS Campaign",
+        "description": "Prepare a customer outreach campaign to promote the new seasonal pricing plan. Draft the message copy, segment the audience by purchase history, schedule sending times for peak engagement, and review opt-out compliance before launch.",
+        "priority": "high",
+        "state": "in_progress",
+        "deadline": "2026-10-15",
+        "start": "2026-09-30"
+    }
+]
